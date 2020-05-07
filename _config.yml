@@ -24,4 +24,4 @@ plugins:
   - jekyll-seo-tag
 
 url: fhuitfeldt.github.io/jekyll
-baseurl: /
+baseurl: /jekyll
