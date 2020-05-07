@@ -23,5 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-url: fhuitfeldt.github.io/jekyll
-baseurl: /
+baseurl: /jekyll
